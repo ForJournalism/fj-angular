@@ -27,3 +27,9 @@ Angular for Journalism
 - Trim down API to get the most articles while keep file size manageable
 - Add some CSS or imagery
 - Deploy on S3 to handle major traffic
+
+## Authentication and Sharing
+
+- Users can create acconts
+- Users can favorite articles
+- Users can share articles
